@@ -2,7 +2,7 @@
 #include <string.h>
 int main()
 {
-    char contraseña[] = "ccfium{pero_n0_l4_hAbia_borrad0??}";
+    char contraseña[] = "estas cerca";
     
     printf("Intenta adivinar mi contraseña\n");
     char entradaUsuario[100];
